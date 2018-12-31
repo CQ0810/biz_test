@@ -11,6 +11,6 @@ public class MMKKController {
 
     @PostMapping("/tt")
     public String tt() {
-        return "aaaa" ;
+        return "aaaa-bbb-ccc-ddd" ;
     }
 }
